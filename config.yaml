@@ -1,4 +1,4 @@
-baseurl: "https://shixiangwang.github.io/home/"
+baseurl: /
 languageCode: en-us
 title: A Hugo website
 theme: hugo-ivy
